@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.home-page{
+    background-image: url(../images/kukkiwon-logo.png);
+    background-size: 100vh;
+}
